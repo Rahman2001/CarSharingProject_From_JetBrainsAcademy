@@ -1,4 +1,4 @@
-# CarSharingProject_From_JetBrainsAcademy
+# Car_Sharing_Project
 This project was built in order to obtain a certificate from JetBrains Academy. (The level of this project: hard (according to JetBrains Academy))
 
 Project desription:
